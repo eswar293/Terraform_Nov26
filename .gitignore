@@ -1,0 +1,8 @@
+# adding unwanted files to this .gitignore files
+
+# adding .terraform folder as it contains the unwanted data and provides linces etc
+.terraform/*
+
+*.tfvars
+*.tfstate
+*.tfstate.*
